@@ -1,0 +1,149 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2022-10-06 T 05:01 EDT",
+  "lang": "en-US",
+  "results": {
+   "channel": {
+    "units": {
+     "distance": "mi",
+     "pressure": "in",
+     "speed": "mph",
+     "temperature": "F"
+    },
+    "title": " Weather - New York, NY, US",
+    "link": "https://weather.com/en-IN/weather/today/l/96f2f84af9a5f5d452eb0574d4e4d8a840c71b05e22264ebdc0056433a642c84",
+    "description": "Weather for New York, NY, US",
+    "language": "en-us",
+    "lastBuildDate": "Tue, 06 Oct 2022 05:01 AM EST",
+    "ttl": "60",
+    "location": {
+     "city": "New York",
+     "country": "United States",
+     "region": " NY"
+    },
+    "wind": {
+     "chill": "32",
+     "direction": "310",
+     "speed": "3km/h"
+    },
+    "atmosphere": {
+     "humidity": "40",
+     "pressure": "1017.0",
+     "rising": "0",
+     "visibility": "16.1"
+    },
+    "astronomy": {
+     "sunrise": "6:57 am",
+     "sunset": "18:29 pm"
+    },
+    "image": {
+     "title": "Weather",
+     "width": "142",
+     "height": "18",
+     "link": " ",
+     "url": "https://weather.com/en-IN/weather/today/l/96f2f84af9a5f5d452eb0574d4e4d8a840c71b05e22264ebdc0056433a642c84"
+    },
+    "item": {
+     "title": "Conditions for New York, NY, US at 05:00 PM EST",
+     "lat": "40.71455",
+     "long": "-74.007118",
+     "link": "https://weather.com/en-IN/weather/hourbyhour/l/96f2f84af9a5f5d452eb0574d4e4d8a840c71b05e22264ebdc0056433a642c84#detailIndex4",
+     "pubDate": "Thu, 06 Oct 2022 05:00 PM EST",
+     "condition": {
+      "code": "23",
+      "date": "Thu, 06 Oct 2022 05:00 PM EST",
+      "temp": "42",
+      "text": "Breezy"
+     },
+     "forecast": [
+      {
+       "code": "23",
+       "date": "07 Oct 2022",
+       "day": "Fri",
+       "high": "44",
+       "low": "35",
+       "text": "Breezy"
+      },
+      {
+       "code": "30",
+       "date": "08 Oct 2022",
+       "day": "Sat",
+       "high": "47",
+       "low": "34",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "26",
+       "date": "09 Oct 2022",
+       "day": "Sun",
+       "high": "51",
+       "low": "38",
+       "text": "Cloudy"
+      },
+      {
+       "code": "26",
+       "date": "10 Oct 2022",
+       "day": "Mon",
+       "high": "51",
+       "low": "45",
+       "text": "Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "11 Oct 2022",
+       "day": "Tue",
+       "high": "51",
+       "low": "44",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "12 Oct 2022",
+       "day": "Wed",
+       "high": "49",
+       "low": "38",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "12",
+       "date": "13 Oct 2022",
+       "day": "Thu",
+       "high": "50",
+       "low": "38",
+       "text": "Rain"
+      },
+      {
+       "code": "12",
+       "date": "14 Oct 2022",
+       "day": "Fri",
+       "high": "54",
+       "low": "42",
+       "text": "Rain"
+      },
+      {
+       "code": "28",
+       "date": "15 Oct 2022",
+       "day": "Sat",
+       "high": "54",
+       "low": "43",
+       "text": "Mostly Cloudy"
+      },
+      {
+       "code": "39",
+       "date": "16 Oct 2022",
+       "day": "Sun",
+       "high": "51",
+       "low": "42",
+       "text": "Scattered Showers"
+      }
+     ],
+     "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/23.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Breezy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Tue - Breezy. High: 44Low: 35\n<BR /> Wed - Partly Cloudy. High: 47Low: 34\n<BR /> Thu - Cloudy. High: 51Low: 38\n<BR /> Fri - Cloudy. High: 51Low: 45\n<BR /> Sat - Partly Cloudy. High: 51Low: 44\n<BR />\n<BR />\n<a href=\"https://weather.com/en-IN/weather/hourbyhour/l/Country__Country/https://weather.com/en-IN/weather/hourbyhour/l/96f2f84af9a5f5d452eb0574d4e4d8a840c71b05e22264ebdc0056433a642c84#detailIndex4\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n(provided by <a href=\"http://www.weather.com\" >The Weather Channel</a>)\n<BR />\n]]>",
+     "guid": {
+      "isPermaLink": "false"
+     }
+    }
+   }
+  }
+ }
+}
